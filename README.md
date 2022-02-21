@@ -1,5 +1,8 @@
 # Django 프레임워크 수업 정리
-![](images/2022/02/1.jpg)
+![1](https://user-images.githubusercontent.com/76809524/154886975-656b6a20-f255-4ef3-8c80-518ebd95cab1.jpg)
+
+![img](/pictures/1.jpg)
+
 (강의 출처 : 생활코딩)
 
 ## html, 파이썬
