@@ -1,4 +1,3 @@
-
 """myproject URL Configuration
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
@@ -20,4 +19,6 @@ urlpatterns = [
     path('', views.index),
     path('create/', views.create),
     path('read/<id>/', views.read),
+    path('update/<id>/', views.update),
+    path('delete/', views.delete)
 ]
