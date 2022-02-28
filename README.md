@@ -16,8 +16,8 @@ Django 학습을 위해서 html과 파이썬 문법을 빠르게 훑어 보았�
 
 ## 포트의 개념
 
-<img width="70%" src="https://user-images.githubusercontent.com/76809524/155928601-8b407130-91a4-4b37-b374-b8a139002eae.png"/>
-ㅇㅇ
+<p align="center"><img width="70%" src="https://user-images.githubusercontent.com/76809524/155928601-8b407130-91a4-4b37-b374-b8a139002eae.png"/></p>
+
 
 
 
